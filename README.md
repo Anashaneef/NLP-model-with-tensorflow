@@ -11,3 +11,6 @@
 - Pandas
 - Matplotlib.pyplot
 - Sklearn
+
+### Dataset
+- [Video Game Sales]([https://www.omdbapi.com/](https://www.kaggle.com/datasets/gregorut/videogamesales?select=vgsales.csv)) (Kaggle)
